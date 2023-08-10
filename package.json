@@ -5,7 +5,7 @@
   "main": "App.js",
   "scripts": {
     "start": "parcel index.html",
-    "build": "build index.html",
+    "build": "parcel index.html",
     "test": "jest"
   },
   "author": "satheesh",
